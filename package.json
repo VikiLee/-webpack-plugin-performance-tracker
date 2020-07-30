@@ -1,0 +1,21 @@
+{
+  "name": "webpack-plugin-performance-tracker",
+  "version": "1.0.0",
+  "description": "webpack plugin using for injecting code to measure page performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance tracker"
+  ],
+  "author": "weiji.li",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "semver": "^7.3.2"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
